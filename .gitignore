@@ -1,0 +1,7 @@
+# Large data files
+data/*.jsonl
+
+
+# Python
+__pycache__/
+*.py[cod]
