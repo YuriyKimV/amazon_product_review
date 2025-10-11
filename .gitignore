@@ -5,3 +5,4 @@ data/*.jsonl
 # Python
 __pycache__/
 *.py[cod]
+data/df_meta_category.csv
